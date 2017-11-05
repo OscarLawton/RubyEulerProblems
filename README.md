@@ -1,1 +1,2 @@
-A groups of Problems for Project Euler solved using the Ruby programming language
+
+Solutions for the Project Euler problems solved using the Ruby programming language
